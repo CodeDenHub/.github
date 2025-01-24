@@ -50,7 +50,7 @@ Nous valorisons le partage et l'entraide entre développeurs, n'hésitez pas à 
 
 Vous souhaitez discuter, poser des questions ou partager vos avancées ?
 
--   **📢 Suivez-nous sur LinkedIn**
+-   **📢 Suivez-nous sur LinkedIn** (bientôt disponible)
 -   **💬 Rejoignez notre serveur Discord** (bientôt disponible)
 -   **📧 Contactez-nous** pour toute question
 
